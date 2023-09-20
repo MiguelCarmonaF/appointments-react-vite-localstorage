@@ -1,6 +1,5 @@
 import {useState, useEffect} from 'react';
-import Error
- from './error';
+import Error from './Error'
 const Formulario = ({setPacientes, pacientes, paciente, setPaciente}) => { //Usando function expression con arrow, pasamos el props de app.js set pacientes
     const [nombre, setNombre] = useState(''); //Variable, funcion y dentro de use state valor inicial que se asignará a variable
     //Siempre se debe cambiar el valor de variable por medio de función
