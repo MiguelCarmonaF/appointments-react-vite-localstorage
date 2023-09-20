@@ -1,6 +1,6 @@
 # React + Vite + tailwind + local storage
 
-CRUD page made in react+vite + local storage
+CRUD page made in react + vite + local storage + tailwindcss
 
 Make appointments for your pets at this veterinarian!
 
