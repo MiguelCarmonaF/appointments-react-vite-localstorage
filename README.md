@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + tailwind + local storage
 
 CRUD page made in react+vite + local storage
 
